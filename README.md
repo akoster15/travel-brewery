@@ -2,7 +2,7 @@
 
 [Live GitHub Page](https://matildabrantley.github.io/project-one/)
 
-![banner](assets/components/BreweryReadme.gif)
+![banner](https://github.com/akoster15/travel-brewery/blob/main/assets/Components/BreweryReadme.gif)
 
 ## CheckList:  
 ```
@@ -19,7 +19,7 @@ This project will allow users to search for Breweries based on cities and states
 As an avid drinker that likes to travel, I want to know which breweries are in the areas I am traveling too
 ```
 ## Wireframe or sketch of the design:
-![Wireframe](assets/components/wireframe.PNG)
+![Wireframe](https://github.com/akoster15/travel-brewery/blob/main/assets/Components/WireFrame.png)
 ## APIs to be used:
 ```
 OpenBreweries and Wikipedia
