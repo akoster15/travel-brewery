@@ -2,7 +2,7 @@
 
 [Live GitHub Page](https://matildabrantley.github.io/project-one/)
 
-![banner](https://github.com/akoster15/travel-brewery/blob/main/assets/Components/BreweryReadme.gif)
+![banner](https://github.com/akoster15/travel-brewery/blob/main/assets/Components/travel-brewery-screenshot.PNG)
 
 ## CheckList:  
 ```
